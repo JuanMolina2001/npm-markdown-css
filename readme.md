@@ -1,5 +1,6 @@
-you can download the npm.css or copy this 
+you can download the npm.css here [npm-css](https://github.com/JuanMolina2001/npm-markdown-css/blob/master/npm.css)
 
+you can see the demo here [Demo](https://juanmolina2001.github.io/npm-markdown-css/)
 ## Usage
 ```html
   <link rel="stylesheet" href="./npm.css">
